@@ -230,5 +230,50 @@
         "image": "https://wiki.guildwars2.com/images/thumb/c/cc/Troll_concept_art.jpg/91px-Troll_concept_art.jpg",
         "unlock_achievement": 50,
         "unlock_tip": "Kill trolls"
+    },
+    {
+        "id": "Zhaitan",
+        "description": "Elder Dragon of Death and Shadow, often referred to as the Undead Dragon, who raised the sunken nation of Orr from the depths of the Sea of Sorrows.",
+        "category": "Elder Dragons",
+        "image": "https://wiki.guildwars2.com/images/thumb/4/49/Zhaitan.jpg/120px-Zhaitan.jpg",
+        "unlock_achievement": 83,
+        "unlock_tip": "Kill Zhaitan"
+    },
+    {
+        "id": "Mordremoth",
+        "description": "Elder Dragon of Plant and Mind, and is often referred to as the Jungle Dragon. The common Tyrian did not know about Mordremoth's existence until 1327 AE, when its corruption and minions, the Mordrem, began to spread.",
+        "category": "Elder Dragons",
+        "image": "https://wiki.guildwars2.com/images/thumb/c/c6/Mouth_of_Mordremoth.jpg/120px-Mouth_of_Mordremoth.jpg",
+        "unlock_achievement": 2472,
+        "unlock_tip": "Kill Mordremoth"
+    },
+    {
+        "id": "Kralkatorrik",
+        "description": "Elder Dragon of Crystal and Fury, often referred to as the Crystal Dragon. He is a thousand feet tall and his wingspan easily blocks out the sun, and is described as being about 20 times larger than his scion Glint.",
+        "category": "Elder Dragons",
+        "image": "https://wiki.guildwars2.com/images/thumb/f/fe/Kralkatorrik.jpg/120px-Kralkatorrik.jpg",
+        "unlock_achievement": 4747,
+        "unlock_tip": "Kill Kralkatorrik"
+    },
+    {
+        "id": "Jormag",
+        "description": "Elder Dragon of Ice and Persuasion, often referred to as the Ice Dragon, who dwells in the northern reaches of the Far Shiverpeak Mountains. The Ice Dragon has powerful mental capabilities that alter their enemies way of thinking.",
+        "category": "Elder Dragons",
+        "image": "https://wiki.guildwars2.com/images/thumb/9/98/Jormag.jpg/120px-Jormag.jpg",
+        "unlock_tip": "Kill Jormag"
+    },
+    {
+        "id": "Primordus",
+        "description": "Elder Dragon of Fire and Conflagration, often referred to as the Fire Dragon. He has fought a lengthy battle against dwarves in the Depths of Tyria and forced several underground races to the surface.",
+        "category": "Elder Dragons",
+        "image": "https://wiki.guildwars2.com/images/thumb/5/53/Primordus.jpg/120px-Primordus.jpg",
+        "unlock_tip": "Kill Primordus"
+    },
+    {
+        "id": "Deep sea dragon",
+        "description": "Scholars have long debated the possible existence of an as-of-yet unnamed Elder Dragon deep in the Unending Ocean, referred to by Taimi as the water dragon.",
+        "category": "Elder Dragons",
+        "image": "https://wiki.guildwars2.com/images/thumb/1/14/The_Way_Forward_Dragon_concept_art.jpg/120px-The_Way_Forward_Dragon_concept_art.jpg",
+        "unlock_tip": "?"
     }
 ]
