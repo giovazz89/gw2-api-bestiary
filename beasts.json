@@ -38,5 +38,53 @@
         "image": "https://wiki.guildwars2.com/images/thumb/5/5a/Eir_03_concept_art.jpg/65px-Eir_03_concept_art.jpg",
         "unlock_achievement": 78,
         "unlock_tip": "Play as Sylvari"
+    },
+    {
+        "id": "Centaur",
+        "description": "A race of fierce and proud warriors who fight with the humans over land in Kryta and the Maguuma Jungle.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/a/a4/Centaur_02_concept_art.jpg/120px-Centaur_02_concept_art.jpg",
+        "unlock_achievement": 1,
+        "unlock_tip": "Kill centaurs"
+    },
+    {
+        "id": "Choya",
+        "description": "Short, sapient but non-communicative cacti that thrive in the Crystal Desert and Elona. Often hunted for food by locals, they originate from a single mesa in Desert Highlands.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/c/c1/Choya_green.jpg/103px-Choya_green.jpg",
+        "unlock_achievement": 4203,
+        "unlock_tip": "Dance with Choya and learn their customs"
+    },
+    {
+        "id": "Colossus",
+        "description": "Giant, mysterious beings that inhabited Tyria in the distant past. Little is known about them as none have been seen in the present except for one colossus in the Fractals of the Mists.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/4/4b/Colossus.jpg/120px-Colossus.jpg",
+        "unlock_achievement": 395,
+        "unlock_tip": "Respect the Colossus"
+    },
+    {
+        "id": "Djinn",
+        "description": "Elemental beings from Elona and the Crystal Desert. They hold strong ties to the lands and magic, and work to keep twisted magic from altering the landscape.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/1/11/Delta_Djinn_concept_art.jpg/88px-Delta_Djinn_concept_art.jpg",
+        "unlock_achievement": 3821,
+        "unlock_tip": "Kill djinn"
+    },
+    {
+        "id": "Dragon",
+        "description": "Intelligent and powerful winged creatures. They are gifted with magic but are exceptionally rare in present day Tyria.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/9/9f/Skyscale.jpg/120px-Skyscale.jpg",
+        "unlock_achievement": 4699,
+        "unlock_tip": "Rule over the skies with your skyscale"
+    },
+    {
+        "id": "Dredge",
+        "description": "Formerly enslaved by the Stone Summit, the now-xenophobic dredge have taken control of many former dwarven territory and are now strip-mining the Shiverpeak Mountains.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/73/Dredge_concept_art.jpg/90px-Dredge_concept_art.jpg",
+        "unlock_achievement": 26,
+        "unlock_tip": "Kill dredge"
     }
 ]
