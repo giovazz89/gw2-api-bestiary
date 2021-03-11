@@ -158,5 +158,77 @@
         "image": "https://wiki.guildwars2.com/images/thumb/4/49/Jotun_03_concept_art.jpg/120px-Jotun_03_concept_art.jpg",
         "unlock_achievement": 39,
         "unlock_tip": "Kill jotun"
+    },
+    {
+        "id": "Kodan",
+        "description": "A race of spiritual, polar bear-like people whose sailed iceberg cities have been scattered southwards from the arctic seas by Jormag.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/e/e3/Kodan_05_concept_art.jpg/103px-Kodan_05_concept_art.jpg",
+        "unlock_achievement": 3206,
+        "unlock_tip": "Learn about kodans from a Flamebearer"
+    },
+    {
+        "id": "Krait",
+        "description": "An aquatic serpentine race who regularly make slaves of other races, believing themselves to be the most superior race. They are governed by their manipulative Oratuss.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/4/42/Krait_concept_art.jpg/87px-Krait_concept_art.jpg",
+        "unlock_achievement": 40,
+        "unlock_tip": "Kill krait"
+    },
+    {
+        "id": "Largos",
+        "description": "A mysterious race of aquatic assassins. They are known as killers who appear from nowhere, preferring not to interact with other races.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/e/e0/%22Female_Largos%22_concept_art.jpg/91px-%22Female_Largos%22_concept_art.jpg",
+        "unlock_achievement": 4364,
+        "unlock_tip": "Defeat the twin largos assassins"
+    },
+    {
+        "id": "Mursaat",
+        "description": "Elder race of floating, spellcasting creatures who went to near extinction a couple centuries ago. They can hide themselves from those who do not have the gift of True Sight.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7a/Lazarus_concept_art.jpg/90px-Lazarus_concept_art.jpg",
+        "unlock_achievement": 3456,
+        "unlock_tip": "Kill a mursaat...fast!"
+    },
+    {
+        "id": "Ogre",
+        "description": "A race of beastmasters and herders, they are rarely seen without a pet. They come from the Blazeridge Mountains, looking to expand their territory into Ascalon.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/1/13/Ogre_concept_art_3.jpg/89px-Ogre_concept_art_3.jpg",
+        "unlock_achievement": 43,
+        "unlock_tip": "Kill ogres"
+    },
+    {
+        "id": "Quaggan",
+        "description": "Peaceful aquatic creatures who once lived in the open ocean before being driven to Central Tyria. They become extremely hostile and berserk when agitated.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7c/Bestiary_quaggan.jpg/120px-Bestiary_quaggan.jpg",
+        "unlock_achievement": 3214,
+        "unlock_tip": "Learn about quaggans from an epic poem"
+    },
+    {
+        "id": "Skritt",
+        "description": "The skritt followed the asura out of the Depths of Tyria and are now widespread on the surface. They are known for their "hive-mind" and scavenging habits, and are considered as pests by the asura.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/b/bb/Bestiary_skritt.jpg/120px-Bestiary_skritt.jpg",
+        "unlock_achievement": 3,
+        "unlock_tip": "Kill skritt"
+    },
+    {
+        "id": "Tengu",
+        "description": "An avian race that has a long history of being oppressed or driven out by the dominant humans. Now they keep themselves mostly isolated behind a great wall in the Dominion of Winds.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7f/C4_Tengu_concept_art.jpg/120px-C4_Tengu_concept_art.jpg",
+        "unlock_achievement": 5650,
+        "unlock_tip": "Help the tengu defend from icebrood"
+    },
+    {
+        "id": "Troll",
+        "description": "Large, tusked creatures seen throughout Central Tyria, often in or near caves as well as in the jungle. They possess a deep affinity with nature, capable of using rocky, frosty or poisonous environment to their advantage.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/c/cc/Troll_concept_art.jpg/91px-Troll_concept_art.jpg",
+        "unlock_achievement": 50,
+        "unlock_tip": "Kill trolls"
     }
 ]
