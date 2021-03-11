@@ -86,5 +86,77 @@
         "image": "https://wiki.guildwars2.com/images/thumb/7/73/Dredge_concept_art.jpg/90px-Dredge_concept_art.jpg",
         "unlock_achievement": 26,
         "unlock_tip": "Kill dredge"
+    },
+    {
+        "id": "Dwarf",
+        "description": "Elder race who once dominated the Shiverpeak Mountains, now transformed into creatures of stone to fight the destroyers. To find a dwarf anywhere above ground is a rare occurrence.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/e/e3/Ogden_Stonehealer.jpg/65px-Ogden_Stonehealer.jpg",
+        "unlock_achievement": 4559,
+        "unlock_tip": "Raid dwarven ruins and treasure room"
+    },
+    {
+        "id": "Ettin",
+        "description": "Two-headed humpbacks, the ettin are only barely intelligent, but possess colossal strength which they employ against their foes with massive clubs.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/a/a5/Ettin_concept_art.jpg/87px-Ettin_concept_art.jpg",
+        "unlock_achievement": 28,
+        "unlock_tip": "Kill ettins"
+    },
+    {
+        "id": "Forgotten",
+        "description": "Elder race of serpents, associated with Glint and the Six Gods. None have been seen for a very long time.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/0/00/Forgotten_concept_art.jpg/120px-Forgotten_concept_art.jpg",
+        "unlock_achievement": 187,
+        "unlock_tip": "Master Arah to uncover the Forgotten's secred"
+    },
+    {
+        "id": "Giant",
+        "description": "Towering humanoid beings often seen living as nomads in desolate or isolated areas. Although sentient and relatively peaceful, they fiercely protect their territories from trespassers.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7b/Giant_concept_art_2.jpg/108px-Giant_concept_art_2.jpg",
+        "unlock_achievement": 31,
+        "unlock_tip": "Kill giants"
+    },
+    {
+        "id": "Grawl",
+        "description": "The ape-like grawl possess a tribal culture and worship unusual objects from remarkable stone formations to abandoned statues and other natural or built structures.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/e/e7/Grawl_concept_art_3.jpg/79px-Grawl_concept_art_3.jpg",
+        "unlock_achievement": 33,
+        "unlock_tip": "Kill grawl"
+    },
+    {
+        "id": "Great Giant",
+        "description": "Extinct race of true giants, believed to been wiped out by the Elder Dragons. Their colossal skeletons litter the Crystal Desert.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/a/ae/Risen_Giganticus_Lupicus_concept_art.jpg/88px-Risen_Giganticus_Lupicus_concept_art.jpg",
+        "unlock_achievement": 187,
+        "unlock_tip": "Kill Risen Juvenile Great Giants"
+    },
+    {
+        "id": "Harpy",
+        "description": "Winged raiders and scavengers, Elonian legends claim these fiends are fallen servants of the goddess Dwayna. Their young possess a very strong bond with their matrons.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/f/fd/Harpy_concept_art.jpg/120px-Harpy_concept_art.jpg",
+        "unlock_achievement": 4,
+        "unlock_tip": "Kill harpies"
+    },
+    {
+        "id": "Hylek",
+        "description": "Sun-worshipping frog people that live along the coast of the Sea of Sorrows. Experts in alchemy and reading weather, they are a divided race of territorial tribes that often fight each other; only few welcome outsiders into their lands.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/3/30/Bestiary_hylek.jpg/107px-Bestiary_hylek.jpg",
+        "unlock_achievement": 34,
+        "unlock_tip": "Kill hylek"
+    },
+    {
+        "id": "Jotun",
+        "description": "An elder race, once grand, now deteriorated to wielding only the most rustic of weapons and dressed in crude loincloth, they only care for themselves and the purity of their blood.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/4/49/Jotun_03_concept_art.jpg/120px-Jotun_03_concept_art.jpg",
+        "unlock_achievement": 39,
+        "unlock_tip": "Kill jotun"
     }
 ]
