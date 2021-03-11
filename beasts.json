@@ -1,0 +1,42 @@
+[
+    {
+        "id": "Asura",
+        "description": "The arrogant asura prize intellectual prowess over all else. They use their knowledge and skill with magic to assert their dominance over other races.",
+        "category": "Playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/6/65/Zojja_Golemancer_concept_art.jpg/84px-Zojja_Golemancer_concept_art.jpg",
+        "unlock_achievement": 74,
+        "unlock_tip": "Play as Asura"
+    },
+    {
+        "id": "Charr",
+        "description": "Charr society is built around war and their pursuit of military dominance. Their ability with technology and machines of war strikes fear into any who cross them.",
+        "category": "Playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/c/c3/Rytlock_art_concept_art.jpg/117px-Rytlock_art_concept_art.jpg",
+        "unlock_achievement": 75,
+        "unlock_tip": "Play as Charr"
+    },
+    {
+        "id": "Human",
+        "description": "Said to be brought to the world by the gods, they once ruled firmly across the known world. In the past two centuries, they have fallen on hard times, but their faith and spirit remain unshaken.",
+        "category": "Playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/0/01/Logan_02_concept_art.jpg/65px-Logan_02_concept_art.jpg",
+        "unlock_achievement": 76,
+        "unlock_tip": "Play as Human"
+    },
+    {
+        "id": "Norn",
+        "description": "A race of 9-foot hunters hailing from the Far Shiverpeaks. These massive, shape-shifting fighters prize individual valor and victory above all.",
+        "category": "Playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/5/5a/Eir_03_concept_art.jpg/65px-Eir_03_concept_art.jpg",
+        "unlock_achievement": 77,
+        "unlock_tip": "Play as Norn"
+    },
+    {
+        "id": "Sylvari",
+        "description": "Sentient plant folk who have a deep connection with the land and the riches it bears. They seek adventure and their place in the world.",
+        "category": "Playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/5/5a/Eir_03_concept_art.jpg/65px-Eir_03_concept_art.jpg",
+        "unlock_achievement": 78,
+        "unlock_tip": "Play as Sylvari"
+    }
+]
