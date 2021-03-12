@@ -275,5 +275,45 @@
         "category": "Elder Dragons",
         "image": "https://wiki.guildwars2.com/images/thumb/1/14/The_Way_Forward_Dragon_concept_art.jpg/120px-The_Way_Forward_Dragon_concept_art.jpg",
         "unlock_tip": "?"
+    },
+    {
+        "id": "Branded",
+        "description": "Many types of creatures were corrupted into minions of the Elder Dragon Kralkatorrik. Few in the Brand escaped being turned into these creatures of stone and crystal.",
+        "category": "Dragon minions",
+        "image": "https://wiki.guildwars2.com/images/thumb/4/48/Branded_Bear_concept_art_2.jpg/120px-Branded_Bear_concept_art_2.jpg",
+        "unlock_achievement": 3569,
+        "unlock_tip": "Kill branded"
+    },
+    {
+        "id": "Destroyer",
+        "description": "The fiery minions of the Elder Dragon Primordus. They come from the Depths of Tyria and can appear almost anywhere on the surface.",
+        "category": "Dragon minions",
+        "image": "https://wiki.guildwars2.com/images/thumb/c/ce/%22Tannek_Incandescent%22_concept_art.jpg/92px-%22Tannek_Incandescent%22_concept_art.jpg",
+        "unlock_achievement": 3105,
+        "unlock_tip": "Kill destroyers and collect samples"
+    },
+    {
+        "id": "Icebrood",
+        "description": "The minions of the Elder Dragon Jormag. They primarily consist of various corrupted creatures of the Shiverpeak Mountains, such as the norn, wolves, and kodan, that are slowly turned into mindless creatures of ice.",
+        "category": "Dragon minions",
+        "image": "https://wiki.guildwars2.com/images/thumb/b/be/Sons_of_Svanir_03_concept_art_%28Icebrood%29.jpg/120px-Sons_of_Svanir_03_concept_art_%28Icebrood%29.jpg",
+        "unlock_achievement": 5044,
+        "unlock_tip": "Kill icebrood champions after the storm"
+    },
+    {
+        "id": "Mordrem",
+        "description": "The corrupted plant-like minions of the Elder Dragon Mordremoth.",
+        "category": "Dragon minions",
+        "image": "https://wiki.guildwars2.com/images/thumb/3/31/Mordrem_Husk.jpg/84px-Mordrem_Husk.jpg",
+        "unlock_achievement": 1804,
+        "unlock_tip": "Kill legendary mordrem in the Silverwastes"
+    },
+    {
+        "id": "Risen",
+        "description": "Reanimated corpses serving the Elder Dragon Zhaitan.",
+        "category": "Dragon minions",
+        "image": "https://wiki.guildwars2.com/images/thumb/3/3d/Orrian-undead.jpg/90px-Orrian-undead.jpg",
+        "unlock_achievement": 53,
+        "unlock_tip": "Kill risen"
     }
 ]
