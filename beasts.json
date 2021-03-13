@@ -315,5 +315,141 @@
         "image": "https://wiki.guildwars2.com/images/thumb/3/3d/Orrian-undead.jpg/90px-Orrian-undead.jpg",
         "unlock_achievement": 53,
         "unlock_tip": "Kill risen"
+    },
+    {
+        "id": "Animal",
+        "description": "Neutral beasts living in the wilds of Tyria. Peaceful by nature, they will retaliate if attacked.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/b/be/Marmox.jpg/120px-Marmox.jpg",
+        "unlock_achievement": 7,
+        "unlock_tip": "Kill indiscriminately"
+    },
+    {
+        "id": "Bat",
+        "description": "Bats are a common sight in hillside regions, cliffs and caverns. They can fly out of reach of attacks and swoop down to retaliate.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/8/8b/Bat_%28NPC%29.jpg/90px-Bat_%28NPC%29.jpg",
+        "unlock_achievement": 23,
+        "unlock_tip": "Kill bats"
+    },
+    {
+        "id": "Bear",
+        "description": "Largely solitary mammals revered by norn. Include arctodus, murellow, and plated behemoths.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/d/d0/Bear_%28NPC%29.jpg/120px-Bear_%28NPC%29.jpg",
+        "unlock_achievement": 5020,
+        "unlock_tip": "Kill bears and many more to feed Bright Shore"
+    },
+    {
+        "id": "Bird",
+        "description": "Avian creatures seen across Tyria, often referring to birds of prey such as eagles and hawks.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/e/ec/White_Raven_concept_art.jpg/120px-White_Raven_concept_art.jpg",
+        "unlock_achievement": 2251,
+        "unlock_tip": "Scare bird flocks to observe them flying"
+    },
+    {
+        "id": "Canine",
+        "description": "Canines that travel in packs. Includes wolves and coyotes.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7e/Alpine_Wolf.jpg/120px-Alpine_Wolf.jpg",
+        "unlock_achievement": 4375,
+        "unlock_tip": "Befriend a Desert Fox"
+    },
+    {
+        "id": "Cave Beast",
+        "description": "Reptilian creatures that inhabit cavernous areas in the Crystal Desert and Heart of Maguuma.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/23/Cave_Screamer.jpg/120px-Cave_Screamer.jpg",
+        "unlock_achievement": 3604,
+        "unlock_tip": "Kill cave beasts while gathering all verses of the Flameseeker Prophecies"
+    },
+    {
+        "id": "Chak",
+        "description": "Insectoid creatures that can be found in the depths beneath the Heart of Maguuma. They mainly inhabit the ley line tunnels, and some seem to have evolved mechanisms to integrate ley line energy into their biology.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/5/5b/Chak_Slinger.jpg/120px-Chak_Slinger.jpg",
+        "unlock_achievement": 2576,
+        "unlock_tip": "Kill chak during ambushes"
+    },
+    {
+        "id": "Crustacean",
+        "description": "Crabs and thundershrimp are frequently found near the coast, and are easy to hunt.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/c/c7/Crab.jpg/120px-Crab.jpg",
+        "unlock_achievement": 24,
+        "unlock_tip": "Kill crustaceans"
+    },
+    {
+        "id": "Devourer",
+        "description": "Arachnid creatures similar to scorpions but possessing two tails. Commonly seen in dry areas such as Ascalon and the Maguuma Wastes. They can burrow to ambush their prey.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/b/be/Devourer.png/120px-Devourer.png",
+        "unlock_achievement": 25,
+        "unlock_tip": "Kill devourers"
+    },
+    {
+        "id": "Dolyak",
+        "description": "Calm animals from the Shiverpeak Mountains which are often domesticated and herded by the norn. They are also often used as beasts of burden in cool climates.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/0/08/Dolyak_%28NPC%29.jpg/120px-Dolyak_%28NPC%29.jpg",
+        "unlock_achievement": 288,
+        "unlock_tip": "Kill supply caravans"
+    },
+    {
+        "id": "Drake",
+        "description": "Ferocious reptiles often found near bases of water in Ascalon and Kryta, and the Shiverpeak Mountains. Drakes are all tied to certain elements, most being able to breathe magic.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/c/c3/%22Porcodile%22_concept_art.jpg/120px-%22Porcodile%22_concept_art.jpg",
+        "unlock_achievement": 5,
+        "unlock_tip": "Kill drakes"
+    },
+    {
+        "id": "Feline",
+        "description": "Big hunting cats such as jaguars, snow leopards and stalkers.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/f/ff/Alpine_Stalker.jpg/120px-Alpine_Stalker.jpg",
+        "unlock_achievement": 2906,
+        "unlock_tip": "Search for tigers nesting areas"
+    },
+    {
+        "id": "Fish",
+        "description": "Various aquatic species of fish populate the waters of Tyria. Many kinds are harmless to the occasional swimmer, but there are numerous hostile and dangerous kinds.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/6/61/Barracuda_bestiary.png/120px-Barracuda_bestiary.png",
+        "unlock_achievement": 30,
+        "unlock_tip": "Kill fish"
+    },
+    {
+        "id": "Fungus",
+        "description": "Bipedal, sapient mushrooms who inhabit remote locations throughout Central Tyria, mainly the Heart of Maguuma.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/2f/Mushroom_Stomper.jpg/120px-Mushroom_Stomper.jpg",
+        "unlock_achievement": 2347,
+        "unlock_tip": "Raise a mushroom army"
+    },
+    {
+        "id": "Graveling",
+        "description": "Creatures resembling skelks that inhabit the depths of dungeons. They feed on the essence of ghosts and are twisted by the power they consume.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7b/Shadow_Skelk.jpg/120px-Shadow_Skelk.jpg",
+        "unlock_achievement": 186,
+        "unlock_tip": "Clear Ascalonian Catacombs from gravelings"
+    },
+    {
+        "id": "Griffon",
+        "description": "Four-legged winged creatures found in areas of extreme temperatures. Venturing too close to their nests can agitate a whole flock to attack at once.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/8/81/Griffon_concept_art.jpg/120px-Griffon_concept_art.jpg",
+        "unlock_achievement": 32,
+        "unlock_tip": "Kill griffons"
+    },
+    {
+        "id": "Grub",
+        "description": "Giant bugs that prefer the dark, with a poison spit attack. Usually quite docile.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/e/ed/Grub_concept_art.jpg/120px-Grub_concept_art.jpg",
+        "unlock_achievement": 52,
+        "unlock_tip": "Kill grubs"
     }
 ]
