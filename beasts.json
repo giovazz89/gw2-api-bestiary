@@ -603,5 +603,237 @@
         "image": "https://wiki.guildwars2.com/images/thumb/3/37/Bestiary_Wyvern.jpg/120px-Bestiary_Wyvern.jpg",
         "unlock_achievement": 2423,
         "unlock_tip": "Defeat the wyvern matriarch after nightfall"
+    },
+    {
+        "id": "Aberrant",
+        "description": "Corrupted creatures allied with Jormag that are infused with Wolverine's essence. They are found in magically potent areas in Bjora Marches where they assist the icebrood in their assaults.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/3/34/Aberrant_Imp.jpg/120px-Aberrant_Imp.jpg",
+        "unlock_achievement": 5407,
+        "unlock_tip": "Kill aberrant for a special mission"
+    },
+    {
+        "id": "Astral creature",
+        "description": "Beings of unclear origin and properties with an otherworldly appearance. They are found in the Mists and in dwarven ruins deep underground.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/b/b4/Simon.jpg/120px-Simon.jpg",
+        "unlock_achievement": 3457,
+        "unlock_tip": "Study the astral kind in fractals to discover the truth"
+    },
+    {
+        "id": "Avatar",
+        "description": "Powerful spiritual representatives and messengers of the Six Human Gods and other divine beings. They are often found in the Mists but sometimes manifest on Tyria.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/a/a5/The_Judge.jpg/56px-The_Judge.jpg",
+        "unlock_achievement": 5188,
+        "unlock_tip": "Strike and Kill the Wishper of Jormag"
+    },
+    {
+        "id": "Awakened",
+        "description": "Sentient undead who serve their master, Palawa Joko, in the Crystal Desert and Elona.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/b/b6/Awakened_Mummy.jpg/83px-Awakened_Mummy.jpg",
+        "unlock_achievement": 3598,
+        "unlock_tip": "Kill awakened"
+    },
+    {
+        "id": "Construct",
+        "description": "Artificial creatures animated by magical means, ranging from Watchknights to Flame Legion Effigies.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/0/0e/Watchknight.jpg/90px-Watchknight.jpg",
+        "unlock_achievement": 4304,
+        "unlock_tip": "Extinguish the flame effigy in Labyrinthine Cliffs"
+    },
+    {
+        "id": "Demon",
+        "description": "Malevolent beings from the Mists that feast on the despair and vital energy of both the living and the dead. Their forms range from humanoid to eldritch horrors.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7a/Deimos.jpg/120px-Deimos.jpg",
+        "unlock_achievement": 5388,
+        "unlock_tip": "Kill the Eater of Souls in your story missions"
+    },
+    {
+        "id": "Echo",
+        "description": "Magical beings, mostly taking the appearance of once living persons, creatures or bright floating weapons. They are heavily tied to the ancient and exctinct Forgotten and their Ascension trials.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/9/94/Vanguard_Echo.jpg/75px-Vanguard_Echo.jpg",
+        "unlock_achievement": 2055,
+        "unlock_tip": "Kill echos to complete the trials for the torch of divine fire...fast!"
+    },
+    {
+        "id": "Elemental",
+        "description": "Magical beings, many are bound or summoned out of natural elements and employed against their master's foes.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/1/12/Bestiary_elemental.jpg/86px-Bestiary_elemental.jpg",
+        "unlock_achievement": 27,
+        "unlock_tip": "Kill elementals"
+    },
+    {
+        "id": "Exalted",
+        "description": "Originally humans of flesh and blood, the Exalted were transformed into beings of pure energy encased in magical armor. They live in the city of Tarir deep within the Heart of Maguuma and have sworn to protect Glint's legacy.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/6/6e/Exalted_Bastion.jpg/120px-Exalted_Bastion.jpg",
+        "unlock_achievement": 2602,
+        "unlock_tip": "Collect and study Exalted masks"
+    },
+    {
+        "id": "Fallen",
+        "description": "Spectral creatures allied with Jormag that are infused with Ox's essence. They are found haunting the shrines of the Spirits of the Wild in Bjora Marches where they assist the icebrood in their assaults.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/2d/Fallen_Leopard_Shaman.jpg/120px-Fallen_Leopard_Shaman.jpg",
+        "unlock_achievement": 5362,
+        "unlock_tip": "Kill fallen for a special mission"
+    },
+    {
+        "id": "Fleshreaver",
+        "description": "Frightening creatures that cannibalize the corpses of the dead to build their own form and offspring. They thrive in places of death throughout Tyria.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/1/1a/Fleshreaver_Lord_concept_art.jpg/120px-Fleshreaver_Lord_concept_art.jpg",
+        "unlock_achievement": 337,
+        "unlock_tip": "Kill fleshreavers while closing their 12 portals...fast!"
+    },
+    {
+        "id": "Forged",
+        "description": "An army of living armor imbued with the souls of the dead terrorizing the Crystal Desert and Elona. They serve Balthazar, the God of Fire and War, with zeal and show no mercy to anyone standing in their master's way.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/2a/Forged_Forerunner.jpg/90px-Forged_Forerunner.jpg",
+        "unlock_achievement": 3700,
+        "unlock_tip": "Kill forged"
+    },
+    {
+        "id": "Frozen",
+        "description": "Corrupted sentient beings that serve Jormag, frozen in shards of ice. They are resistant to destroyers.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/d/de/Frozen_human.jpg/99px-Frozen_human.jpg",
+        "unlock_achievement": 5590,
+        "unlock_tip": "Learn how frozen came to exist"
+    },
+    {
+        "id": "Ghost",
+        "description": "The souls of the dead unable to find rest, sometimes due to a violent death, other times due to dark magic such as the Foefire.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/f/f6/Ghost2_concept_art.jpg/96px-Ghost2_concept_art.jpg",
+        "unlock_achievement": 29,
+        "unlock_tip": "Kill ghosts"
+    },
+    {
+        "id": "Golem",
+        "description": "Machine-like magitech constructs created by the asura for any task, from various civil tasks to specialized combat roles.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/8/82/Golem_Banker_web.png/120px-Golem_Banker_web.png",
+        "unlock_achievement": 4103,
+        "unlock_tip": "Repair IG-6417"
+    },
+    {
+        "id": "Halloween creature",
+        "description": "Candy, toy, and undead creatures released during Halloween. Accompanied by members of the Lunatic Court.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/1/14/Candy_Corn_Elemental.jpg/89px-Candy_Corn_Elemental.jpg",
+        "unlock_achievement": 3945,
+        "unlock_tip": "Kill Halloween creatures to close their doors"
+    },
+    {
+        "id": "Hologram",
+        "description": "Artificial, projected three-dimensional images of objects or creatures. Usually information repositories, some holograms are used for defense or attack purposes instead.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/c/c5/Rata_Novan_Holographic_Messenger.jpg/77px-Rata_Novan_Holographic_Messenger.jpg",
+        "unlock_achievement": 4834,
+        "unlock_tip": "Herd holograms"
+    },
+    {
+        "id": "Imp",
+        "description": "Flying demons from the Mists, which are attuned to various elements and able to utilize them in combat. They were commonly bound to summoning stones by the dwarves to control them.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/27/Imp_concept_art.jpg/120px-Imp_concept_art.jpg",
+        "unlock_achievement": 36,
+        "unlock_tip": "Kill imps"
+    },
+    {
+        "id": "Jade Construct",
+        "description": "Ancient creations of the mursaat, they are made from chunks of jade that are held together by magic. Rarely seen in present day Tyria, they are formidable opponents as foot soldiers or guards of mursaat strongholds.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/0/07/Jade_Construct.jpg/94px-Jade_Construct.jpg",
+        "unlock_achievement": 3148,
+        "unlock_tip": "Kill the pyroclastic jade construct"
+    },
+    {
+        "id": "Leviathan",
+        "description": "Large and ancient sea creatures said to date back to the previous rise of the Elder Dragons, if not further. They inhabit the depths of the Sea of Sorrows and the Unending Ocean, and once inhabited the Crystal Sea as well.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7a/Leviathan_concept_art.png/120px-Leviathan_concept_art.png",
+        "unlock_achievement": 81,
+        "unlock_tip": "Find a leviathan corpse in Claw Island"
+    },
+    {
+        "id": "Minion",
+        "description": "Undead servants found accompanying necromancers or roaming in places where the Underworld's influence is most present.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/24/Flesh_Golem_render.png/111px-Flesh_Golem_render.png",
+        "unlock_achievement": 4748,
+        "unlock_tip": "Kill minions from the underworld"
+    },
+    {
+        "id": "Nightmare",
+        "description": "Large shadow-like specters full of hostile emotions.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/5/5c/Shadow_Behemoth_rough_2_concept_art.jpg/84px-Shadow_Behemoth_rough_2_concept_art.jpg",
+        "unlock_achievement": 337,
+        "unlock_tip": "Kill the Shadow Behemoth and close it's portals...fast!"
+    },
+    {
+        "id": "Phantasm",
+        "description": "Illusions cast by mesmers. Sometimes easily identifiable by their magenta hue, others must be shattered before their true nature becomes apparent.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/0/0c/Mesmer_broken_mirror_%28cropped%29.jpg/89px-Mesmer_broken_mirror_%28cropped%29.jpg",
+        "unlock_achievement": 3571,
+        "unlock_tip": "Kill the crazed doppelganger"
+    },
+    {
+        "id": "Seer",
+        "description": "Elder race capable of impressive magic, who fell into a war with the mursaat. The Bloodstones are the last remnants known of their civilization in Central Tyria.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/4/4b/Seer.jpg/44px-Seer.jpg",
+        "unlock_achievement": 187,
+        "unlock_tip": "Master Arah to find the secret of the Seers"
+    },
+    {
+        "id": "Steam creature",
+        "description": "Mechanical creatures running on steam power. Originally created by Scarlet Briar as her earliest inventions but have since become automatons and are invading Lornar's Pass.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/20/Steam_creature.png/80px-Steam_creature.png",
+        "unlock_achievement": 4334,
+        "unlock_tip": "Complete Boss Blitz meta-events in the Crown Pavilion, understanding the inner working of steam creatures based watchknights"
+    },
+    {
+        "id": "Snowman",
+        "description": "Servants of Dwayna created from snow encountered during Wintersday.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/1/1e/Snowman.jpg/120px-Snowman.jpg",
+        "unlock_achievement": 4488,
+        "unlock_tip": "Confront Freezie"
+    },
+    {
+        "id": "Twisted Watchwork",
+        "description": "Watchknights turned into mechanical monstrosities by Scarlet Briar. They are capable of assembling more of their kind from the remains of other watchworks.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/21/Twisted_Nightmare_render.jpg/120px-Twisted_Nightmare_render.jpg",
+        "unlock_achievement": 932,
+        "unlock_tip": "Kill the Clockwork Nightmare during the Twilight Assault"
+    },
+    {
+        "id": "Vision",
+        "description": "Non-corporeal manifestations of beings in the distant or near past, often summoned by immensely powerful entities.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/0/08/Keeper_of_the_Shrine.jpg/60px-Keeper_of_the_Shrine.jpg",
+        "unlock_achievement": 3908,
+        "unlock_tip": "Witness viosions of apst heroes while seekeng truth and knowledge in Kormir's library"
+    },
+    {
+        "id": "Wintersday toy",
+        "description": "Toy creatures created by Toymaker Tixx.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/e/e7/Mini_Plush_Griffon.jpg/120px-Mini_Plush_Griffon.jpg",
+        "unlock_achievement": 3249,
+        "unlock_tip": "Defeat misbehaving Wintersday toys"
     }
 ]
