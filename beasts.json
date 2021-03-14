@@ -451,5 +451,157 @@
         "image": "https://wiki.guildwars2.com/images/thumb/e/ed/Grub_concept_art.jpg/120px-Grub_concept_art.jpg",
         "unlock_achievement": 52,
         "unlock_tip": "Kill grubs"
+    },
+    {
+        "id": "Hydra",
+        "description": "Three-headed quadrupled reptiles that are attuned to various elements and inhabit the Crystal Desert and Elona.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/5/5c/Veteran_Fire_Hydra.jpg/90px-Veteran_Fire_Hydra.jpg",
+        "unlock_achievement": 4522,
+        "unlock_tip": "Rope and wrangle a hydra on the ice floe"
+    },
+    {
+        "id": "Insect",
+        "description": "Large hostile bugs that use large animals, and people, as prey. Includes wasps, mosquitoes, fireflies.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/2a/Wasp.jpg/120px-Wasp.jpg",
+        "unlock_achievement": 38,
+        "unlock_tip": "Kill insects"
+    },
+    {
+        "id": "Karka",
+        "description": "A race of crab-like creatures that came from the Unending Ocean and has been forced onto the land for the first time since the ancient days.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/77/Karka_concept_art.jpg/120px-Karka_concept_art.jpg",
+        "unlock_achievement": 2202,
+        "unlock_tip": "Kill karka queen"
+    },
+    {
+        "id": "Kraken",
+        "description": "Large, tentacled sea creatures once seen in the Jade Sea and the Unending Ocean. Presently a kraken can only be encountered in Fractals of the Mists.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/a/a8/Jade_Maw_render.jpg/120px-Jade_Maw_render.jpg",
+        "unlock_achievement": 384,
+        "unlock_tip": "Kill a kraken on a solid ocean"
+    },
+    {
+        "id": "Minotaur",
+        "description": "Minotaurs are prized by the norn for their warm, furry coats and horns. Most have never been domesticated due to being too stubborn to follow commands.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/4/45/Minotaur_concept_art.jpg/120px-Minotaur_concept_art.jpg",
+        "unlock_achievement": 41,
+        "unlock_tip": "Kill minotaurs"
+    },
+    {
+        "id": "Moa",
+        "description": "Large, flightless birds common throughout all of Tyria. They can be found in the wild of domesticated by humans. Includes flamingoes.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/8/81/2010_July_Moa_render.jpg/101px-2010_July_Moa_render.jpg",
+        "unlock_achievement": 4848,
+        "unlock_tip": "Apply moa knowledge to bet on races and win"
+    },
+    {
+        "id": "Ooze",
+        "description": "Jelly-like creatures of fluid and membrane originating from the Depths of Tyria, they are now found all over Central Tyria, mostly in underground caves or near their entrances.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/e/e4/Bestiary_Ooze.jpg/85px-Bestiary_Ooze.jpg",
+        "unlock_achievement": 44,
+        "unlock_tip": "Kill oozes"
+    },
+    {
+        "id": "Plant",
+        "description": "Sentient and mobile plants or plant-like creatures that are hostile to trespassers in their territory. Includes fanged ibogas and jacarandas of the Crystal Desert.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/c/cb/Sylvan_Hound.jpg/120px-Sylvan_Hound.jpg",
+        "unlock_achievement": 46,
+        "unlock_tip": "Kill plants"
+    },
+    {
+        "id": "Porcine",
+        "description": "Territorial animals found across Tyria. These robust beasts will defend their grounds against anyone, even against the dragon minions.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/4/4c/Siamoth.jpg/120px-Siamoth.jpg",
+        "unlock_achievement": 372,
+        "unlock_tip": "Get transformed into a siamoth"
+    },
+    {
+        "id": "Raptor",
+        "description": "Avian-like saurians found throughout Tyria that ogres and Elonians often tame as pets.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/0/06/Vulture_Raptor.jpg/120px-Vulture_Raptor.jpg",
+        "unlock_achievement": 47,
+        "unlock_tip": "Kill raptors"
+    },
+    {
+        "id": "Saurian",
+        "description": "Reptiles, often large, that can be most commonly found in the Heart of Maguuma.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/e/e3/Bristleback.jpg/113px-Bristleback.jpg",
+        "unlock_achievement": 3398,
+        "unlock_tip": "Kill the stonehead king"
+    },
+    {
+        "id": "Skale",
+        "description": "Amphibious, ravenous creatures of semi-sapience which prefer dark swamps and other shallow bodies of water as their hunting grounds.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7b/Skale_bestiary.jpg/120px-Skale_bestiary.jpg",
+        "unlock_achievement": 16,
+        "unlock_tip": "Kill skale"
+    },
+    {
+        "id": "Sloth",
+        "description": "Mammalian creatures native to the Heart of Maguuma that have been mutated by excess magic. They are often found sleeping but can become aggressive if provoked.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/2a/Giant_Sloth.jpg/87px-Giant_Sloth.jpg",
+        "unlock_achievement": 3126,
+        "unlock_tip": "Kill the sloth queen"
+    },
+    {
+        "id": "Spider",
+        "description": "Eight legged web-spinners hoping to catch a little bigger prey, known of their poisonous traits. Venturing into their nests can be hazardous.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/b/b6/Black_Widow_Spider_concept_art.jpg/120px-Black_Widow_Spider_concept_art.jpg",
+        "unlock_achievement": 6,
+        "unlock_tip": "Kill spiders"
+    },
+    {
+        "id": "Treant",
+        "description": "Sentient, large mobile trees that appear to be guardians of nature. Usually peaceful until attacked. Includes mosshearts, oakhearts, pinesouls, and willowhearts.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/7/7a/Pinesoul_concept_art.jpg/120px-Pinesoul_concept_art.jpg",
+        "unlock_achievement": 46,
+        "unlock_tip": "Kill treant"
+    },
+    {
+        "id": "Vampire Beast",
+        "description": "Bloodthirsty creatures that inhabit the Crystal Desert and the Heart of Maguuma. They resemble four-legged bats and are found in packs inside ruins or caves.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/3/33/Vampire_Beast.jpg/119px-Vampire_Beast.jpg",
+        "unlock_achievement": 2349,
+        "unlock_tip": "Kill vampire beasts to make your way into the Twisting Viaduct"
+    },
+    {
+        "id": "Wind Rider",
+        "description": "Bizarre, silent, floating creatures that attack with tentacles. It is said that they are not natural beings, having been unleashed into this world by a sorcerer in ancient times.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/2/2f/Wind_Rider.png/88px-Wind_Rider.png",
+        "unlock_achievement": 51,
+        "unlock_tip": "Kill wind riders"
+    },
+    {
+        "id": "Wurm",
+        "description": "Massive subterranean, burrowing creatures which, when disturbed or hunting, surge to the surface to swallow their prey whole.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/d/d7/Bestiary_wurm.jpg/101px-Bestiary_wurm.jpg",
+        "unlock_achievement": 52,
+        "unlock_tip": "Kill wurms"
+    },
+    {
+        "id": "Wyvern",
+        "description": "Cousins to drakes, wyverns are flying reptiles that inhabit the dense canopy and cliffs of the Heart of Maguuma. Wyverns corrupted by the Elder Dragons have also been found in Orr and the Crystal Desert.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/3/37/Bestiary_Wyvern.jpg/120px-Bestiary_Wyvern.jpg",
+        "unlock_achievement": 2423,
+        "unlock_tip": "Defeat the wyvern matriarch after nightfall"
     }
 ]
