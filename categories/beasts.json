@@ -1,0 +1,771 @@
+[
+    {
+        "id": "Playable races",
+        "races": [
+            {
+                "id": "Asura",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/6\/65\/Zojja_Golemancer_concept_art.jpg\/84px-Zojja_Golemancer_concept_art.jpg",
+                "description": "The arrogant asura prize intellectual prowess over all else. They use their knowledge and skill with magic to assert their dominance over other races.",
+                "unlock": 74,
+                "unlock_txt": "Play Asura personal story"
+            },
+            {
+                "id": "Charr",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/c\/c3\/Rytlock_art_concept_art.jpg\/117px-Rytlock_art_concept_art.jpg",
+                "description": "Charr society is built around war and their pursuit of military dominance. Their ability with technology and machines of war strikes fear into any who cross them.",
+                "unlock": 75,
+                "unlock_txt": "Play Charr personal story"
+            },
+            {
+                "id": "Human",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/01\/Logan_02_concept_art.jpg\/65px-Logan_02_concept_art.jpg",
+                "description": "Said to be brought to the world by the gods, they once ruled firmly across the known world. In the past two centuries, they have fallen on hard times, but their faith and spirit remain unshaken.",
+                "unlock": 76,
+                "unlock_txt": "Play Human personal story"
+            },
+            {
+                "id": "Norn",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/5\/5a\/Eir_03_concept_art.jpg\/65px-Eir_03_concept_art.jpg",
+                "description": "A race of 9-foot hunters hailing from the Far Shiverpeaks. These massive, shape-shifting fighters prize individual valor and victory above all.",
+                "unlock": 77,
+                "unlock_txt": "Play Norn personal story"
+            },
+            {
+                "id": "Sylvari",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/5\/57\/Caithe_02_concept_art.jpg\/55px-Caithe_02_concept_art.jpg",
+                "description": "Sentient plant folk who have a deep connection with the land and the riches it bears. They seek adventure and their place in the world.",
+                "unlock": 78,
+                "unlock_txt": "Play Sylvari personal story"
+            }
+        ]
+    },
+    {
+        "id": "Non-playable races",
+        "races": [
+            {
+                "id": "Centaur",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/a\/a4\/Centaur_02_concept_art.jpg\/120px-Centaur_02_concept_art.jpg",
+                "description": "A race of fierce and proud warriors who fight with the humans over land in Kryta and the Maguuma Jungle.",
+                "unlock": 1,
+                "unlock_txt": "Kill centaurs"
+            },
+            {
+                "id": "Choya",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/c\/c1\/Choya_green.jpg\/103px-Choya_green.jpg",
+                "description": "Short, sapient but non-communicative cacti that thrive in the Crystal Desert and Elona. Often hunted for food by locals, they originate from a single mesa in Desert Highlands.",
+                "unlock": 4203,
+                "unlock_txt": "Dance with Choya"
+            },
+            {
+                "id": "Colossus (Cliffside Fractal)",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/4b\/Colossus.jpg\/120px-Colossus.jpg",
+                "description": "Giant, mysterious beings that inhabited Tyria in the distant past. Little is known about them as none have been seen in the present except for one colossus in the Fractals of the Mists.",
+                "unlock": 395,
+                "unlock_txt": "Share a moment of respect with the colossus of the Cliffside fractal"
+            },
+            {
+                "id": "Djinn",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/1\/11\/Delta_Djinn_concept_art.jpg\/88px-Delta_Djinn_concept_art.jpg",
+                "description": "Elemental beings from Elona and the Crystal Desert. They hold strong ties to the lands and magic, and work to keep twisted magic from altering the landscape.",
+                "unlock": 3821,
+                "unlock_txt": "Kill djinn"
+            },
+            {
+                "id": "Dragon",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/9\/9f\/Skyscale.jpg\/120px-Skyscale.jpg",
+                "description": "Intelligent and powerful winged creatures. They are gifted with magic but are exceptionally rare in present day Tyria.",
+                "unlock": 4699,
+                "unlock_txt": "Master the skyscale and rule the skies"
+            },
+            {
+                "id": "Dredge",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/73\/Dredge_concept_art.jpg\/90px-Dredge_concept_art.jpg",
+                "description": "Formerly enslaved by the Stone Summit, the now-xenophobic dredge have taken control of many former dwarven territory and are now strip-mining the Shiverpeak Mountains.",
+                "unlock": 26,
+                "unlock_txt": "Kill dredge"
+            },
+            {
+                "id": "Dwarf",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/e\/e3\/Ogden_Stonehealer.jpg\/65px-Ogden_Stonehealer.jpg",
+                "description": "Elder race who once dominated the Shiverpeak Mountains, now transformed into creatures of stone to fight the destroyers. To find a dwarf anywhere above ground is a rare occurrence.",
+                "unlock": 4559,
+                "unlock_txt": "Raid dwarven treasure rooms"
+            },
+            {
+                "id": "Ettin",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/a\/a5\/Ettin_concept_art.jpg\/87px-Ettin_concept_art.jpg",
+                "description": "Two-headed humpbacks, the ettin are only barely intelligent, but possess colossal strength which they employ against their foes with massive clubs.",
+                "unlock": 28,
+                "unlock_txt": "Kill ettins"
+            },
+            {
+                "id": "Forgotten",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/00\/Forgotten_concept_art.jpg\/120px-Forgotten_concept_art.jpg",
+                "description": "Elder race of serpents, associated with Glint and the Six Gods. None have been seen for a very long time.",
+                "unlock": 3629,
+                "unlock_txt": "Discover Forgotten debris spread throughout the Elon Riverlands"
+            },
+            {
+                "id": "Giant",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7b\/Giant_concept_art_2.jpg\/108px-Giant_concept_art_2.jpg",
+                "description": "Towering humanoid beings often seen living as nomads in desolate or isolated areas. Although sentient and relatively peaceful, they fiercely protect their territories from trespassers.",
+                "unlock": 31,
+                "unlock_txt": "Kill giants"
+            },
+            {
+                "id": "Grawl",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/e\/e7\/Grawl_concept_art_3.jpg\/79px-Grawl_concept_art_3.jpg",
+                "description": "The ape-like grawl possess a tribal culture and worship unusual objects from remarkable stone formations to abandoned statues and other natural or built structures.",
+                "unlock": 33,
+                "unlock_txt": "Kill grawl"
+            },
+            {
+                "id": "Great Giant",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/a\/ae\/Risen_Giganticus_Lupicus_concept_art.jpg\/88px-Risen_Giganticus_Lupicus_concept_art.jpg",
+                "description": "Extinct race of true giants, believed to been wiped out by the Elder Dragons. Their colossal skeletons litter the Crystal Desert.",
+                "unlock": 187,
+                "unlock_txt": "Kill Juvenile Great Giants: become the Master of Arah"
+            },
+            {
+                "id": "Harpy",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/f\/fd\/Harpy_concept_art.jpg\/120px-Harpy_concept_art.jpg",
+                "description": "Winged raiders and scavengers, Elonian legends claim these fiends are fallen servants of the goddess Dwayna. Their young possess a very strong bond with their matrons.",
+                "unlock": 4,
+                "unlock_txt": "Kill harpies"
+            },
+            {
+                "id": "Hylek",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/3\/30\/Bestiary_hylek.jpg\/107px-Bestiary_hylek.jpg",
+                "description": "Sun-worshipping frog people that live along the coast of the Sea of Sorrows. Experts in alchemy and reading weather, they are a divided race of territorial tribes that often fight each other; only few welcome outsiders into their lands.",
+                "unlock": 34,
+                "unlock_txt": "Kill hylek"
+            },
+            {
+                "id": "Jotun",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/49\/Jotun_03_concept_art.jpg\/120px-Jotun_03_concept_art.jpg",
+                "description": "An elder race, once grand, now deteriorated to wielding only the most rustic of weapons and dressed in crude loincloth, they only care for themselves and the purity of their blood.",
+                "unlock": 39,
+                "unlock_txt": "Kill jotun"
+            },
+            {
+                "id": "Kodan",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/e\/e3\/Kodan_05_concept_art.jpg\/103px-Kodan_05_concept_art.jpg",
+                "description": "A race of spiritual, polar bear-like people whose sailed iceberg cities have been scattered southwards from the arctic seas by Jormag.",
+                "unlock": 3206,
+                "unlock_txt": "Acquire the Koda's Flame skills and speak with a Flamebearer to learn their history"
+            },
+            {
+                "id": "Krait",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/42\/Krait_concept_art.jpg\/87px-Krait_concept_art.jpg",
+                "description": "An aquatic serpentine race who regularly make slaves of other races, believing themselves to be the most superior race. They are governed by their manipulative Oratuss.",
+                "unlock": 40,
+                "unlock_txt": "Kill krait"
+            },
+            {
+                "id": "Largos",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/e\/e0\/%22Female_Largos%22_concept_art.jpg\/91px-%22Female_Largos%22_concept_art.jpg",
+                "description": "A mysterious race of aquatic assassins. They are known as killers who appear from nowhere, preferring not to interact with other races.",
+                "unlock": 4364,
+                "unlock_txt": "Defeat the largos assassins"
+            },
+            {
+                "id": "Mursaat",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7a\/Lazarus_concept_art.jpg\/90px-Lazarus_concept_art.jpg",
+                "description": "Elder race of floating, spellcasting creatures who went to near extinction a couple centuries ago. They can hide themselves from those who do not have the gift of True Sight.",
+                "unlock": 3456,
+                "unlock_txt": "Kill a Mursaat, fast!"
+            },
+            {
+                "id": "Ogre",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/1\/13\/Ogre_concept_art_3.jpg\/89px-Ogre_concept_art_3.jpg",
+                "description": "A race of beastmasters and herders, they are rarely seen without a pet. They come from the Blazeridge Mountains, looking to expand their territory into Ascalon.",
+                "unlock": 43,
+                "unlock_txt": "Kill ogre"
+            },
+            {
+                "id": "Quaggan",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7c\/Bestiary_quaggan.jpg\/120px-Bestiary_quaggan.jpg",
+                "description": "Peaceful aquatic creatures who once lived in the open ocean before being driven to Central Tyria. They become extremely hostile and berserk when agitated.",
+                "unlock": 3214,
+                "unlock_txt": "Find all seven stanzas of the quaggan epic poem"
+            },
+            {
+                "id": "Skritt",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/b\/bb\/Bestiary_skritt.jpg\/120px-Bestiary_skritt.jpg",
+                "description": "The skritt followed the asura out of the Depths of Tyria and are now widespread on the surface. They are known for their \"hive-mind\" and scavenging habits, and are considered as pests by the asura.",
+                "unlock": 3,
+                "unlock_txt": "Kill skritt"
+            },
+            {
+                "id": "Tengu",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7f\/C4_Tengu_concept_art.jpg\/120px-C4_Tengu_concept_art.jpg",
+                "description": "An avian race that has a long history of being oppressed or driven out by the dominant humans. Now they keep themselves mostly isolated behind a great wall in the Dominion of Winds.",
+                "unlock": 5331,
+                "unlock_txt": "Retrieve Goro Cleverclaws journal"
+            },
+            {
+                "id": "Troll",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/c\/cc\/Troll_concept_art.jpg\/91px-Troll_concept_art.jpg",
+                "description": "Large, tusked creatures seen throughout Central Tyria, often in or near caves as well as in the jungle. They possess a deep affinity with nature, capable of using rocky, frosty or poisonous environment to their advantage.",
+                "unlock": 50,
+                "unlock_txt": "Kill trolls"
+            }
+        ]
+    },
+    {
+        "id": "Elder Dragons",
+        "races": [
+            {
+                "id": "Zhaitan",
+                "icon": "https://wiki.guildwars2.com/images/thumb/4/49/Zhaitan.jpg/120px-Zhaitan.jpg",
+                "description": "Elder Dragon of Death and Shadow, often referred to as the Undead Dragon, who raised the sunken nation of Orr from the depths of the Sea of Sorrows.",
+                "unlock": 83,
+                "unlock_txt": "Kill Zhaitan"
+            },
+            {
+                "id": "Mordremoth",
+                "icon": "https://wiki.guildwars2.com/images/thumb/c/c6/Mouth_of_Mordremoth.jpg/120px-Mouth_of_Mordremoth.jpg",
+                "description": "Elder Dragon of Plant and Mind, and is often referred to as the Jungle Dragon. It is the most recent of the Elder Dragons to awaken in the world of Tyria.",
+                "unlock": 2472,
+                "unlock_txt": "Kill Mordremoth"
+            },
+            {
+                "id": "Kralkatorrik",
+                "icon": "https://wiki.guildwars2.com/images/thumb/f/fe/Kralkatorrik.jpg/120px-Kralkatorrik.jpg",
+                "description": "Kralkatorrik is the Elder Dragon of Crystal and Fury, often referred to as the Crystal Dragon. He is a thousand feet tall and his wingspan easily blocks out the sun and has the power to corrupt anything physical with his breath.",
+                "unlock": 4747,
+                "unlock_txt": "Kill Kralkatorrik"
+            },
+            {
+                "id": "Jormag",
+                "icon": "https://wiki.guildwars2.com/images/thumb/9/98/Jormag.jpg/120px-Jormag.jpg",
+                "description": "Elder Dragon of Ice and Persuasion, often referred to as the Ice Dragon, who dwells in the northern reaches of the Far Shiverpeak Mountains and has powerful mental capabilities that alter their enemies way of thinking.",
+                "unlock_txt": "Kill Jormag"
+            },
+            {
+                "id": "Primordus",
+                "icon": "https://wiki.guildwars2.com/images/thumb/5/53/Primordus.jpg/120px-Primordus.jpg",
+                "description": "Elder Dragon of Fire and Conflagration, often referred to as the Fire Dragon. He has fought a lengthy battle against dwarves in the Depths of Tyria and forced several underground races like the asura and the skritt to the surface.",
+                "unlock_txt": "Kill Primordus"
+            },
+            {
+                "id": "Deep sea dragon",
+                "icon": "https://wiki.guildwars2.com/images/thumb/1/14/The_Way_Forward_Dragon_concept_art.jpg/120px-The_Way_Forward_Dragon_concept_art.jpg",
+                "description": "Scholars have long debated the possible existence of an as-of-yet unnamed Elder Dragon deep in the Unending Ocean, referred to by Taimi as the water dragon.",
+                "unlock_txt": "Kill the Deep sea dragon"
+            }
+        ]
+    },
+    {
+        "id": "Dragon minions",
+        "races": [
+            {
+                "id": "Branded",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/48\/Branded_Bear_concept_art_2.jpg\/120px-Branded_Bear_concept_art_2.jpg",
+                "description": "Many types of creatures were corrupted into minions of the Elder Dragon Kralkatorrik. Few in the Brand escaped being turned into these creatures of stone and crystal.",
+                "unlock": 3569,
+                "unlock_txt": "Kill members of the Branded army"
+            },
+            {
+                "id": "Destroyer",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/c\/ce\/%22Tannek_Incandescent%22_concept_art.jpg\/92px-%22Tannek_Incandescent%22_concept_art.jpg",
+                "description": "The fiery minions of the Elder Dragon Primordus. They come from the Depths of Tyria and can appear almost anywhere on the surface.",
+                "unlock": 4327,
+                "unlock_txt": "Kill destroyers in the Crown Pavilion"
+            },
+            {
+                "id": "Icebrood",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/b\/be\/Sons_of_Svanir_03_concept_art_%28Icebrood%29.jpg\/120px-Sons_of_Svanir_03_concept_art_%28Icebrood%29.jpg",
+                "description": "The minions of the Elder Dragon Jormag. They primarily consist of various corrupted creatures of the Shiverpeak Mountains, such as the norn, wolves, and kodan, that are slowly turned into mindless creatures of ice.",
+                "unlock": 5044,
+                "unlock_txt": "Defeat Icebrood Chapions after the storm"
+            },
+            {
+                "id": "Mordrem",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/3\/31\/Mordrem_Husk.jpg\/84px-Mordrem_Husk.jpg",
+                "description": "The corrupted plant-like minions of the Elder Dragon Mordremoth.",
+                "unlock": 1804,
+                "unlock_txt": "End-All legendary Mordrem"
+            },
+            {
+                "id": "Risen",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/3\/3d\/Orrian-undead.jpg\/90px-Orrian-undead.jpg",
+                "description": "Reanimated corpses serving the Elder Dragon Zhaitan.",
+                "unlock": 53,
+                "unlock_txt": "Kill  members of Zhaitan's army"
+            }
+        ]
+    },
+    {
+        "id": "Wildlife",
+        "races": [
+            {
+                "id": "Animal",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/b\/be\/Marmox.jpg\/120px-Marmox.jpg",
+                "description": "Neutral beasts living in the wilds of Tyria. Peaceful by nature, they will retaliate if attacked.",
+                "unlock": 7,
+                "unlock_txt": "Kill ambient creatures"
+            },
+            {
+                "id": "Bat",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/8\/8b\/Bat_%28NPC%29.jpg\/90px-Bat_%28NPC%29.jpg",
+                "description": "Bats are a common sight in hillside regions, cliffs and caverns. They can fly out of reach of attacks and swoop down to retaliate.",
+                "unlock": 23,
+                "unlock_txt": "Kill bats"
+            },
+            {
+                "id": "Bear",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/d\/d0\/Bear_%28NPC%29.jpg\/120px-Bear_%28NPC%29.jpg",
+                "description": "Largely solitary mammals revered by norn. Include arctodus, murellow, and plated behemoths.",
+                "unlock": 5020,
+                "unlock_txt": "Kill bears (and much else) for Bright Shore"
+            },
+            {
+                "id": "Bird",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/e\/ec\/White_Raven_concept_art.jpg\/120px-White_Raven_concept_art.jpg",
+                "description": "Avian creatures seen across Tyria, often referring to birds of prey such as eagles and hawks.",
+                "unlock": 2251,
+                "unlock_txt": "Scare bird flocks"
+            },
+            {
+                "id": "Canine",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7e\/Alpine_Wolf.jpg\/120px-Alpine_Wolf.jpg",
+                "description": "Canines that travel in packs. Includes wolves and coyotes.",
+                "unlock": 4375,
+                "unlock_txt": "Ease the Anxiety of a Terrified Desert Fox"
+            },
+            {
+                "id": "Cave Beast",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/23\/Cave_Screamer.jpg\/120px-Cave_Screamer.jpg",
+                "description": "Reptilian creatures that inhabit cavernous areas in the Crystal Desert and Heart of Maguuma.",
+                "unlock": 3604,
+                "unlock_txt": "Decrypt all Flameseeker Prophecies: cull those cave beasts!"
+            },
+            {
+                "id": "Chak",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/5\/5b\/Chak_Slinger.jpg\/120px-Chak_Slinger.jpg",
+                "description": "Insectoid creatures that can be found in the depths beneath the Heart of Maguuma. They mainly inhabit the ley line tunnels, and some seem to have evolved mechanisms to integrate ley line energy into their biology.",
+                "unlock": 2576,
+                "unlock_txt": "You must be delicious bait: kill chak!"
+            },
+            {
+                "id": "Crustacean",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/c\/c7\/Crab.jpg\/120px-Crab.jpg",
+                "description": "Crabs and thundershrimp are frequently found near the coast, and are easy to hunt.",
+                "unlock": 24,
+                "unlock_txt": "Kill  crustaceans"
+            },
+            {
+                "id": "Devourer",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/b\/be\/Devourer.png\/120px-Devourer.png",
+                "description": "Arachnid creatures similar to scorpions but possessing two tails. Commonly seen in dry areas such as Ascalon and the Maguuma Wastes. They can burrow to ambush their prey.",
+                "unlock": 25,
+                "unlock_txt": "Kill devourers"
+            },
+            {
+                "id": "Dolyak",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/08\/Dolyak_%28NPC%29.jpg\/120px-Dolyak_%28NPC%29.jpg",
+                "description": "Calm animals from the Shiverpeak Mountains which are often domesticated and herded by the norn. They are also often used as beasts of burden in cool climates.",
+                "unlock": 288,
+                "unlock_txt": "Kill dolyak caravans"
+            },
+            {
+                "id": "Drake",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/c\/c3\/%22Porcodile%22_concept_art.jpg\/120px-%22Porcodile%22_concept_art.jpg",
+                "description": "Ferocious reptiles often found near bases of water in Ascalon and Kryta, and the Shiverpeak Mountains. Drakes are all tied to certain elements, most being able to breathe magic.",
+                "unlock": 5,
+                "unlock_txt": "Kill drakes"
+            },
+            {
+                "id": "Feline",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/f\/ff\/Alpine_Stalker.jpg\/120px-Alpine_Stalker.jpg",
+                "description": "Big hunting cats such as jaguars, snow leopards and stalkers.",
+                "unlock": 3716,
+                "unlock_txt": "Kill Elona predators"
+            },
+            {
+                "id": "Fish",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/6\/61\/Barracuda_bestiary.png\/120px-Barracuda_bestiary.png",
+                "description": "Various aquatic species of fish populate the waters of Tyria. Many kinds are harmless to the occasional swimmer, but there are numerous hostile and dangerous kinds.",
+                "unlock": 30,
+                "unlock_txt": "Kill fish"
+            },
+            {
+                "id": "Fungus",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/2f\/Mushroom_Stomper.jpg\/120px-Mushroom_Stomper.jpg",
+                "description": "Bipedal, sapient mushrooms who inhabit remote locations throughout Central Tyria, mainly the Heart of Maguuma.",
+                "unlock": 2632,
+                "unlock_txt": "Help the Itzel to Mushroom King soup"
+            },
+            {
+                "id": "Graveling",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7b\/Shadow_Skelk.jpg\/120px-Shadow_Skelk.jpg",
+                "description": "Creatures resembling skelks that inhabit the depths of dungeons. They feed on the essence of ghosts and are twisted by the power they consume.",
+                "unlock": 186,
+                "unlock_txt": "Clear all the catacombs from gravelings"
+            },
+            {
+                "id": "Griffon",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/8\/81\/Griffon_concept_art.jpg\/120px-Griffon_concept_art.jpg",
+                "description": "Four-legged winged creatures found in areas of extreme temperatures. Venturing too close to their nests can agitate a whole flock to attack at once.",
+                "unlock": 32,
+                "unlock_txt": "Kill griffons"
+            },
+            {
+                "id": "Grub",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/e\/ed\/Grub_concept_art.jpg\/120px-Grub_concept_art.jpg",
+                "description": "Giant bugs that prefer the dark, with a poison spit attack. Usually quite docile.",
+                "unlock": 52,
+                "unlock_txt": "Kill grubs"
+            },
+            {
+                "id": "Hydra",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/5\/5c\/Veteran_Fire_Hydra.jpg\/90px-Veteran_Fire_Hydra.jpg",
+                "description": "Three-headed quadrupled reptiles that are attuned to various elements and inhabit the Crystal Desert and Elona.",
+                "unlock": 4522,
+                "unlock_txt": "Rope and wrangle a hydra on the ice floe"
+            },
+            {
+                "id": "Insect",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/2a\/Wasp.jpg\/120px-Wasp.jpg",
+                "description": "Large hostile bugs that use large animals, and people, as prey. Includes wasps, mosquitoes, fireflies.",
+                "unlock": 38,
+                "unlock_txt": "Kill insects"
+            },
+            {
+                "id": "Karka",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/77\/Karka_concept_art.jpg\/120px-Karka_concept_art.jpg",
+                "description": "A race of crab-like creatures that came from the Unending Ocean and has been forced onto the land for the first time since the ancient days.",
+                "unlock": 2202,
+                "unlock_txt": "Defeat a legendary karka queen"
+            },
+            {
+                "id": "Kraken",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/a\/a8\/Jade_Maw_render.jpg\/120px-Jade_Maw_render.jpg",
+                "description": "Large, tentacled sea creatures once seen in the Jade Sea and the Unending Ocean. Presently a kraken can only be encountered in Fractals of the Mists.",
+                "unlock": 384,
+                "unlock_txt": "Defeat a Solid Ocean kraken"
+            },
+            {
+                "id": "Minotaur",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/45\/Minotaur_concept_art.jpg\/120px-Minotaur_concept_art.jpg",
+                "description": "Minotaurs are prized by the norn for their warm, furry coats and horns. Most have never been domesticated due to being too stubborn to follow commands.",
+                "unlock": 41,
+                "unlock_txt": "Kill minotaurs"
+            },
+            {
+                "id": "Moa",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/8\/81\/2010_July_Moa_render.jpg\/101px-2010_July_Moa_render.jpg",
+                "description": "Large, flightless birds common throughout all of Tyria. They can be found in the wild of domesticated by humans. Includes flamingoes.",
+                "unlock": 4848,
+                "unlock_txt": "You can bet on your moa knowledge...and win!"
+            },
+            {
+                "id": "Ooze",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/e\/e4\/Bestiary_Ooze.jpg\/85px-Bestiary_Ooze.jpg",
+                "description": "Jelly-like creatures of fluid and membrane originating from the Depths of Tyria, they are now found all over Central Tyria, mostly in underground caves or near their entrances.",
+                "unlock": 44,
+                "unlock_txt": "Kill oozes"
+            },
+            {
+                "id": "Plant",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/c\/cb\/Sylvan_Hound.jpg\/120px-Sylvan_Hound.jpg",
+                "description": "Sentient and mobile plants or plant-like creatures that are hostile to trespassers in their territory. Includes fanged ibogas and jacarandas of the Crystal Desert.",
+                "unlock": 46,
+                "unlock_txt": "Kill plants"
+            },
+            {
+                "id": "Porcine",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/4c\/Siamoth.jpg\/120px-Siamoth.jpg",
+                "description": "Territorial animals found across Tyria. These robust beasts will defend their grounds against anyone, even against the dragon minions.",
+                "unlock": 372,
+                "unlock_txt": "Get transformed into a baby siamoth"
+            },
+            {
+                "id": "Raptor",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/06\/Vulture_Raptor.jpg\/120px-Vulture_Raptor.jpg",
+                "description": "Avian-like saurians found throughout Tyria that ogres and Elonians often tame as pets.",
+                "unlock": 47,
+                "unlock_txt": "Kill raptors"
+            },
+            {
+                "id": "Saurian",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/e\/e3\/Bristleback.jpg\/113px-Bristleback.jpg",
+                "description": "Reptiles, often large, that can be most commonly found in the Heart of Maguuma.",
+                "unlock": 3398,
+                "unlock_txt": "Slay the champion stonehead king"
+            },
+            {
+                "id": "Skale",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7b\/Skale_bestiary.jpg\/120px-Skale_bestiary.jpg",
+                "description": "Amphibious, ravenous creatures of semi-sapience which prefer dark swamps and other shallow bodies of water as their hunting grounds.",
+                "unlock": 16,
+                "unlock_txt": "Kill skale"
+            },
+            {
+                "id": "Skelk",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/43\/Alpine_Skelk.jpg\/120px-Alpine_Skelk.jpg",
+                "description": "Amphibious reptilian creatures previously found in Tarnished Coast and moist caverns in the Depths of Tyria. They are capable of stealth and ambushing their prey.",
+                "unlock": 48,
+                "unlock_txt": "Kill skelk"
+            },
+            {
+                "id": "Sloth",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/2a\/Giant_Sloth.jpg\/87px-Giant_Sloth.jpg",
+                "description": "Mammalian creatures native to the Heart of Maguuma that have been mutated by excess magic. They are often found sleeping but can become aggressive if provoked.",
+                "unlock": 3126,
+                "unlock_txt": "Kill a Sloth Queen"
+            },
+            {
+                "id": "Spider",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/b\/b6\/Black_Widow_Spider_concept_art.jpg\/120px-Black_Widow_Spider_concept_art.jpg",
+                "description": "Eight legged web-spinners hoping to catch a little bigger prey, known of their poisonous traits. Venturing into their nests can be hazardous.",
+                "unlock": 6,
+                "unlock_txt": "Kill spiders"
+            },
+            {
+                "id": "Treant",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7a\/Pinesoul_concept_art.jpg\/120px-Pinesoul_concept_art.jpg",
+                "description": "Sentient, large mobile trees that appear to be guardians of nature. Usually peaceful until attacked. Includes mosshearts, oakhearts, pinesouls, and willowhearts.",
+                "unlock": 46,
+                "unlock_txt": "Kill treant"
+            },
+            {
+                "id": "Vampire Beast",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/3\/33\/Vampire_Beast.jpg\/119px-Vampire_Beast.jpg",
+                "description": "Bloodthirsty creatures that inhabit the Crystal Desert and the Heart of Maguuma. They resemble four-legged bats and are found in packs inside ruins or caves.",
+                "unlock": 2365,
+                "unlock_txt": "Make way through vampire beasts to Undergrowth Connector 'Cryptonym' stronbox"
+            },
+            {
+                "id": "Wind Rider",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/2f\/Wind_Rider.png\/88px-Wind_Rider.png",
+                "description": "Bizarre, silent, floating creatures that attack with tentacles. It is said that they are not natural beings, having been unleashed into this world by a sorcerer in ancient times.",
+                "unlock": 51,
+                "unlock_txt": "Kill wind riders"
+            },
+            {
+                "id": "Wurm",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/d\/d7\/Bestiary_wurm.jpg\/101px-Bestiary_wurm.jpg",
+                "description": "Massive subterranean, burrowing creatures which, when disturbed or hunting, surge to the surface to swallow their prey whole.",
+                "unlock": 52,
+                "unlock_txt": "Kill wurms"
+            },
+            {
+                "id": "Wyvern",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/3\/37\/Bestiary_Wyvern.jpg\/120px-Bestiary_Wyvern.jpg",
+                "description": "Cousins to drakes, wyverns are flying reptiles that inhabit the dense canopy and cliffs of the Heart of Maguuma. Wyverns corrupted by the Elder Dragons have also been found in Orr and the Crystal Desert.",
+                "unlock": 2423,
+                "unlock_txt": "Defeat the wyvern matriarch"
+            }
+        ]
+    },
+    {
+        "id": "Other",
+        "races": [
+            {
+                "id": "Aberrant",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/3\/34\/Aberrant_Imp.jpg\/120px-Aberrant_Imp.jpg",
+                "description": "Corrupted creatures allied with Jormag that are infused with Wolverine's essence. They are found in magically potent areas in Bjora Marches where they assist the icebrood in their assaults.",
+                "unlock": 5407,
+                "unlock_txt": "Special mission: kill aberrants"
+            },
+            {
+                "id": "Astral creature",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/b\/b4\/Simon.jpg\/120px-Simon.jpg",
+                "description": "Beings of unclear origin and properties with an otherworldly appearance. They are found in the Mists and in dwarven ruins deep underground.",
+                "unlock": 3457,
+                "unlock_txt": "Study the Astral Kind"
+            },
+            {
+                "id": "Avatar",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/a\/a5\/The_Judge.jpg\/56px-The_Judge.jpg",
+                "description": "Powerful spiritual representatives and messengers of the Six Human Gods and other divine beings. They are often found in the Mists but sometimes manifest on Tyria.",
+                "unlock": 5118,
+                "unlock_txt": "Defeat the Whisper of Jormag"
+            },
+            {
+                "id": "Awakened",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/b\/b6\/Awakened_Mummy.jpg\/83px-Awakened_Mummy.jpg",
+                "description": "Sentient undead who serve their master, Palawa Joko, in the Crystal Desert and Elona.",
+                "unlock": 3598,
+                "unlock_txt": "Kill  members of Joko's Awakened"
+            },
+            {
+                "id": "Construct",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/0e\/Watchknight.jpg\/90px-Watchknight.jpg",
+                "description": "Artificial creatures animated by magical means, ranging from Watchknights to Flame Legion Effigies.",
+                "unlock": 4304,
+                "unlock_txt": "Extinguish the flame effigy in Labyrinthine Cliffs"
+            },
+            {
+                "id": "Demon",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7a\/Deimos.jpg\/120px-Deimos.jpg",
+                "description": "Malevolent beings from the Mists that feast on the despair and vital energy of both the living and the dead. Their forms range from humanoid to eldritch horrors.",
+                "unlock": 3588,
+                "unlock_txt": "Kill the Eater of Souls"
+            },
+            {
+                "id": "Echo",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/9\/94\/Vanguard_Echo.jpg\/75px-Vanguard_Echo.jpg",
+                "description": "Magical beings, mostly taking the appearance of once living persons, creatures or bright floating weapons. They are heavily tied to the ancient and exctinct Forgotten and their Ascension trials.",
+                "unlock": 2055,
+                "unlock_txt": "Kill echos during Arcana Obscura, fast!"
+            },
+            {
+                "id": "Elemental",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/1\/12\/Bestiary_elemental.jpg\/86px-Bestiary_elemental.jpg",
+                "description": "Magical beings, many are bound or summoned out of natural elements and employed against their master's foes.",
+                "unlock": 27,
+                "unlock_txt": "Kill elementals"
+            },
+            {
+                "id": "Exalted",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/6\/6e\/Exalted_Bastion.jpg\/77px-Exalted_Bastion.jpg",
+                "description": "Originally humans of flesh and blood, the Exalted were transformed into beings of pure energy encased in magical armor. They live in the city of Tarir deep within the Heart of Maguuma and have sworn to protect Glint's legacy.",
+                "unlock": 2602,
+                "unlock_txt": "Inspect the masks of fallen Exalted"
+            },
+            {
+                "id": "Fallen",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/2d\/Fallen_Leopard_Shaman.jpg\/120px-Fallen_Leopard_Shaman.jpg",
+                "description": "Spectral creatures allied with Jormag that are infused with Ox's essence. They are found haunting the shrines of the Spirits of the Wild in Bjora Marches where they assist the icebrood in their assaults.",
+                "unlock": 5392,
+                "unlock_txt": "Special mission: kill the Fallen"
+            },
+            {
+                "id": "Fleshreaver",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/1\/1a\/Fleshreaver_Lord_concept_art.jpg\/120px-Fleshreaver_Lord_concept_art.jpg",
+                "description": "Frightening creatures that cannibalize the corpses of the dead to build their own form and offspring. They thrive in places of death throughout Tyria.",
+                "unlock": 337,
+                "unlock_txt": "Kill fleshreavers and close their portals, fast!"
+            },
+            {
+                "id": "Forged",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/2a\/Forged_Forerunner.jpg\/90px-Forged_Forerunner.jpg",
+                "description": "An army of living armor imbued with the souls of the dead terrorizing the Crystal Desert and Elona. They serve Balthazar, the God of Fire and War, with zeal and show no mercy to anyone standing in their master's way.",
+                "unlock": 3700,
+                "unlock_txt": "Kill forged"
+            },
+            {
+                "id": "Frozen (lore)",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/d\/de\/Frozen_human.jpg\/99px-Frozen_human.jpg",
+                "description": "Corrupted sentient beings that serve Jormag, frozen in shards of ice. They are resistant to destroyers.",
+                "unlock": 5590,
+                "unlock_txt": "Learn how the Frozen started appearing"
+            },
+            {
+                "id": "Ghost",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/f\/f6\/Ghost2_concept_art.jpg\/96px-Ghost2_concept_art.jpg",
+                "description": "The souls of the dead unable to find rest, sometimes due to a violent death, other times due to dark magic such as the Foefire.",
+                "unlock": 29,
+                "unlock_txt": "Kill ghosts"
+            },
+            {
+                "id": "Golem",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/8\/82\/Golem_Banker_web.png\/120px-Golem_Banker_web.png",
+                "description": "Machine-like magitech constructs created by the asura for any task, from various civil tasks to specialized combat roles.",
+                "unlock": 4103,
+                "unlock_txt": "Repair IG-6417"
+            },
+            {
+                "id": "Halloween creature",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/1\/14\/Candy_Corn_Elemental.jpg\/89px-Candy_Corn_Elemental.jpg",
+                "description": "Candy, toy, and undead creatures released during Halloween. Accompanied by members of the Lunatic Court.",
+                "unlock": 3945,
+                "unlock_txt": "Kill Halloween creatures and close their doors"
+            },
+            {
+                "id": "Hologram",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/c\/c5\/Rata_Novan_Holographic_Messenger.jpg\/77px-Rata_Novan_Holographic_Messenger.jpg",
+                "description": "Artificial, projected three-dimensional images of objects or creatures. Usually information repositories, some holograms are used for defense or attack purposes instead.",
+                "unlock": 4828,
+                "unlock_txt": "Vanquish holographic dragon minions"
+            },
+            {
+                "id": "Imp",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/27\/Imp_concept_art.jpg\/120px-Imp_concept_art.jpg",
+                "description": "Flying demons from the Mists, which are attuned to various elements and able to utilize them in combat. They were commonly bound to summoning stones by the dwarves to control them.",
+                "unlock": 36,
+                "unlock_txt": "Kill imps"
+            },
+            {
+                "id": "Jade Construct",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/07\/Jade_Construct.jpg\/94px-Jade_Construct.jpg",
+                "description": "Ancient creations of the mursaat, they are made from chunks of jade that are held together by magic. Rarely seen in present day Tyria, they are formidable opponents as foot soldiers or guards of mursaat strongholds.",
+                "unlock": 3076,
+                "unlock_txt": "Defeat a jade construct"
+            },
+            {
+                "id": "Leviathan",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7a\/Leviathan_concept_art.png\/120px-Leviathan_concept_art.png",
+                "description": "Large and ancient sea creatures said to date back to the previous rise of the Elder Dragons, if not further. They inhabit the depths of the Sea of Sorrows and the Unending Ocean, and once inhabited the Crystal Sea as well.",
+                "unlock": 81,
+                "unlock_txt": "Discover the leviathan carcass at Claw Island"
+            },
+            {
+                "id": "Minion",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/24\/Flesh_Golem_render.png\/111px-Flesh_Golem_render.png",
+                "description": "Undead servants found accompanying necromancers or roaming in places where The Underworld's influence is most present.",
+                "unlock": 4748,
+                "unlock_txt": "Kill minions from the underworld"
+            },
+            {
+                "id": "Nightmare",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/5\/5c\/Shadow_Behemoth_rough_2_concept_art.jpg\/84px-Shadow_Behemoth_rough_2_concept_art.jpg",
+                "description": "Large shadow-like specters full of hostile emotions.",
+                "unlock": 337,
+                "unlock_txt": "Kill the Shadow Behemoth and close its portals, fast!"
+            },
+            {
+                "id": "Phantasm (race)",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/0c\/Mesmer_broken_mirror_%28cropped%29.jpg\/89px-Mesmer_broken_mirror_%28cropped%29.jpg",
+                "description": "Illusions cast by mesmers. Sometimes easily identifiable by their magenta hue, others must be shattered before their true nature becomes apparent.",
+                "unlock": 3571,
+                "unlock_txt": "Kill a legendary doppelganger"
+            },
+            {
+                "id": "Seer",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/4b\/Seer.jpg\/44px-Seer.jpg",
+                "description": "Elder race capable of impressive magic, who fell into a war with the mursaat. The Bloodstones are the last remnants known of their civilization in Central Tyria.",
+                "unlock": 187,
+                "unlock_txt": "Learn about the Seer and other elder races: become the Master of Arah"
+            },
+            {
+                "id": "Steam creature",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/20\/Steam_creature.png\/80px-Steam_creature.png",
+                "description": "Mechanical creatures running on steam power. Originally created by Scarlet Briar as her earliest inventions but have since become automatons and are invading Lornar's Pass.",
+                "unlock": 4334,
+                "unlock_txt": "Complete Boss Blitz meta-event in the Crown Pavilion, killing steam creatures based 'watchknights' under illusion"
+            },
+            {
+                "id": "Snowman",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/1\/1e\/Snowman.jpg\/120px-Snowman.jpg",
+                "description": "Servants of Dwayna created from snow encountered during Wintersday.",
+                "unlock": 4488,
+                "unlock_txt": "Confront Freezie in the Secret Lair of the Snowmen"
+            },
+            {
+                "id": "Twisted Watchwork",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/21\/Twisted_Nightmare_render.jpg\/120px-Twisted_Nightmare_render.jpg",
+                "description": "Watchknights turned into mechanical monstrosities by Scarlet Briar. They are capable of assembling more of their kind from the remains of other watchworks.",
+                "unlock": 932,
+                "unlock_txt": "Defeat the Clockwork Nightmare"
+            },
+            {
+                "id": "Vision (race)",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/08\/Keeper_of_the_Shrine.jpg\/60px-Keeper_of_the_Shrine.jpg",
+                "description": "Non-corporeal manifestations of beings in the distant or near past, often summoned by immensely powerful entities.",
+                "unlock": 3908,
+                "unlock_txt": "Read all available books and scrolls in Kormir's library, witnessing heros visions"
+            },
+            {
+                "id": "Wintersday toy",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/e\/e7\/Mini_Plush_Griffon.jpg\/120px-Mini_Plush_Griffon.jpg",
+                "description": "Toy creatures created by Toymaker Tixx.",
+                "unlock": 3249,
+                "unlock_txt": "Defeat misbehaving Wintersday toys"
+            }
+        ]
+    }
+]
