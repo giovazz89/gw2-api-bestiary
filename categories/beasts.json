@@ -240,12 +240,14 @@
                 "id": "Jormag",
                 "icon": "https://wiki.guildwars2.com/images/thumb/9/98/Jormag.jpg/120px-Jormag.jpg",
                 "description": "Elder Dragon of Ice and Persuasion, often referred to as the Ice Dragon, who dwells in the northern reaches of the Far Shiverpeak Mountains and has powerful mental capabilities that alter their enemies way of thinking.",
+                "unlock": 5539,
                 "unlock_txt": "Kill Jormag"
             },
             {
                 "id": "Primordus",
                 "icon": "https://wiki.guildwars2.com/images/thumb/5/53/Primordus.jpg/120px-Primordus.jpg",
                 "description": "Elder Dragon of Fire and Conflagration, often referred to as the Fire Dragon. He has fought a lengthy battle against dwarves in the Depths of Tyria and forced several underground races like the asura and the skritt to the surface.",
+                "unlock": 5539,
                 "unlock_txt": "Kill Primordus"
             },
             {
