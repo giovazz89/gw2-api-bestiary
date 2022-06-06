@@ -777,11 +777,18 @@
                 "unlock_txt": "Defeat the Clockwork Nightmare"
             },
             {
-                "id": "Vision (race)",
+                "id": "Vision",
                 "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/08\/Keeper_of_the_Shrine.jpg\/60px-Keeper_of_the_Shrine.jpg",
                 "description": "Non-corporeal manifestations of beings in the distant or near past, often summoned by immensely powerful entities.",
                 "unlock": 3908,
                 "unlock_txt": "Read all available books and scrolls in Kormir's library, witnessing heros visions"
+            },
+            {
+                "id": "Warden",
+                "description": "Ancient and mysterious plant-like protectors of the Echovald Forest.",
+                "image": "https:\/\/wiki.guildwars2.com\/images\/thumb\/d\/d5\/Warden_concept_art.jpg\/82px-Warden_concept_art.jpg",
+                "unlock_achievement": 6472,
+                "unlock_tip": "Get involved with Echovald Wardens"
             },
             {
                 "id": "Wintersday toy",

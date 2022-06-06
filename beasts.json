@@ -853,7 +853,15 @@
         "category": "Other",
         "image": "https://wiki.guildwars2.com/images/thumb/0/08/Keeper_of_the_Shrine.jpg/60px-Keeper_of_the_Shrine.jpg",
         "unlock_achievement": 3908,
-        "unlock_tip": "Witness viosions of apst heroes while seekeng truth and knowledge in Kormir's library"
+        "unlock_tip": "Witness visions of all heroes while seekeng truth and knowledge in Kormir's library"
+    },
+    {
+        "id": "Warden",
+        "description": "Ancient and mysterious plant-like protectors of the Echovald Forest.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/d/d5/Warden_concept_art.jpg/82px-Warden_concept_art.jpg",
+        "unlock_achievement": 6472,
+        "unlock_tip": "Get involved with Echovald Wardens"
     },
     {
         "id": "Wintersday toy",
