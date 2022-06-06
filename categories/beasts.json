@@ -749,7 +749,7 @@
                 "unlock_txt": "Kill the Shadow Behemoth and close its portals, fast!"
             },
             {
-                "id": "Phantasm (race)",
+                "id": "Phantasm",
                 "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/0\/0c\/Mesmer_broken_mirror_%28cropped%29.jpg\/89px-Mesmer_broken_mirror_%28cropped%29.jpg",
                 "description": "Illusions cast by mesmers. Sometimes easily identifiable by their magenta hue, others must be shattered before their true nature becomes apparent.",
                 "unlock": 3571,
