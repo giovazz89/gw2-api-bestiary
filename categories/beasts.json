@@ -197,6 +197,13 @@
                 "unlock_txt": "Find all seven stanzas of the quaggan epic poem"
             },
             {
+                "id": "Seer",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/4b\/Seer.jpg\/44px-Seer.jpg",
+                "description": "Elder race capable of impressive magic, who fell into a war with the mursaat. The Bloodstones are the last remnants known of their civilization in Central Tyria.",
+                "unlock": 187,
+                "unlock_txt": "Learn about the Seer and other elder races: become the Master of Arah"
+            },
+            {
                 "id": "Skritt",
                 "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/b\/bb\/Bestiary_skritt.jpg\/120px-Bestiary_skritt.jpg",
                 "description": "The skritt followed the asura out of the Depths of Tyria and are now widespread on the surface. They are known for their \"hive-mind\" and scavenging habits, and are considered as pests by the asura.",
@@ -258,10 +265,11 @@
                 "unlock_txt": "Kill Primordus"
             },
             {
-                "id": "Deep sea dragon",
-                "icon": "https://wiki.guildwars2.com/images/thumb/1/14/The_Way_Forward_Dragon_concept_art.jpg/120px-The_Way_Forward_Dragon_concept_art.jpg",
-                "description": "Scholars have long debated the possible existence of an as-of-yet unnamed Elder Dragon deep in the Unending Ocean, referred to by Taimi as the water dragon.",
-                "unlock_txt": "Kill the Deep sea dragon"
+                "id": "Soo-Won",
+                "icon": "https://wiki.guildwars2.com/images/thumb/e/e3/Soo-Won_portrait.png/200px-Soo-Won_portrait.png",
+                "description": "Soo-Won is the Elder Dragon of Water, often referred to as the Water Dragon or the Deep Sea Dragon, and the second Elder Dragon to awaken in modern times.",
+                "unlock": 6496,
+                "unlock_txt": "Defeat Soo-Won"
             }
         ]
     },
@@ -732,13 +740,6 @@
                 "description": "Illusions cast by mesmers. Sometimes easily identifiable by their magenta hue, others must be shattered before their true nature becomes apparent.",
                 "unlock": 3571,
                 "unlock_txt": "Kill a legendary doppelganger"
-            },
-            {
-                "id": "Seer",
-                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/4b\/Seer.jpg\/44px-Seer.jpg",
-                "description": "Elder race capable of impressive magic, who fell into a war with the mursaat. The Bloodstones are the last remnants known of their civilization in Central Tyria.",
-                "unlock": 187,
-                "unlock_txt": "Learn about the Seer and other elder races: become the Master of Arah"
             },
             {
                 "id": "Steam creature",

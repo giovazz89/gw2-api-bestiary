@@ -216,6 +216,14 @@
         "unlock_tip": "Learn about quaggans from an epic poem"
     },
     {
+        "id": "Seer",
+        "description": "Elder race capable of impressive magic, who fell into a war with the mursaat. The Bloodstones are the last remnants known of their civilization in Central Tyria.",
+        "category": "Non-playable races",
+        "image": "https://wiki.guildwars2.com/images/thumb/4/4b/Seer.jpg/44px-Seer.jpg",
+        "unlock_achievement": 187,
+        "unlock_tip": "Master Arah to find the secret of the Seers"
+    },
+    {
         "id": "Skritt",
         "description": "The skritt followed the asura out of the Depths of Tyria and are now widespread on the surface. They are known for their "hive-mind" and scavenging habits, and are considered as pests by the asura.",
         "category": "Non-playable races",
@@ -280,11 +288,12 @@
         "unlock_tip": "Kill Primordus"
     },
     {
-        "id": "Deep sea dragon",
-        "description": "Scholars have long debated the possible existence of an as-of-yet unnamed Elder Dragon deep in the Unending Ocean, referred to by Taimi as the water dragon.",
+        "id": "Soo-Won",
+        "description": "Soo-Won is the Elder Dragon of Water, often referred to as the Water Dragon or the Deep Sea Dragon, and the second Elder Dragon to awaken in modern times.",
         "category": "Elder Dragons",
-        "image": "https://wiki.guildwars2.com/images/thumb/1/14/The_Way_Forward_Dragon_concept_art.jpg/120px-The_Way_Forward_Dragon_concept_art.jpg",
-        "unlock_tip": "?"
+        "image": "https://wiki.guildwars2.com/images/thumb/e/e3/Soo-Won_portrait.png/200px-Soo-Won_portrait.png",
+        "unlock": 6496,
+        "unlock_tip": "Defeat Soo-Won"
     },
     {
         "id": "Branded",
@@ -797,14 +806,6 @@
         "image": "https://wiki.guildwars2.com/images/thumb/0/0c/Mesmer_broken_mirror_%28cropped%29.jpg/89px-Mesmer_broken_mirror_%28cropped%29.jpg",
         "unlock_achievement": 3571,
         "unlock_tip": "Kill the crazed doppelganger"
-    },
-    {
-        "id": "Seer",
-        "description": "Elder race capable of impressive magic, who fell into a war with the mursaat. The Bloodstones are the last remnants known of their civilization in Central Tyria.",
-        "category": "Other",
-        "image": "https://wiki.guildwars2.com/images/thumb/4/4b/Seer.jpg/44px-Seer.jpg",
-        "unlock_achievement": 187,
-        "unlock_tip": "Master Arah to find the secret of the Seers"
     },
     {
         "id": "Steam creature",
