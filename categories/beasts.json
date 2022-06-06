@@ -555,6 +555,13 @@
                 "unlock_txt": "Kill treant"
             },
             {
+                "id": "Turtle",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/26\/Sea_Turtle_%28Sandswept_Isles%29.jpg\/120px-Sea_Turtle_%28Sandswept_Isles%29.jpg",
+                "description": "Reptilian creatures found throughout Tyria's seas. Includes both turtles and tortoises.",
+                "unlock": 6408,
+                "unlock_txt": "Feed your personal turtle"
+            },
+            {
                 "id": "Vampire Beast",
                 "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/3\/33\/Vampire_Beast.jpg\/119px-Vampire_Beast.jpg",
                 "description": "Bloodthirsty creatures that inhabit the Crystal Desert and the Heart of Maguuma. They resemble four-legged bats and are found in packs inside ruins or caves.",
