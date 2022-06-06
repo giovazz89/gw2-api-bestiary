@@ -728,6 +728,13 @@
                 "unlock_txt": "Defeat a jade construct"
             },
             {
+                "id": "Jade Mech",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/6\/6a\/%22Jade_Hound%22_concept_art_02.jpg\/120px-%22Jade_Hound%22_concept_art_02.jpg",
+                "description": "Constructs created by Xunlai Jade in Cantha. In recent times, they have begun to malfunction.",
+                "unlock": 6132,
+                "unlock_txt": "Break the Protector"
+            },
+            {
                 "id": "Minion",
                 "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/2\/24\/Flesh_Golem_render.png\/111px-Flesh_Golem_render.png",
                 "description": "Undead servants found accompanying necromancers or roaming in places where The Underworld's influence is most present.",

@@ -792,6 +792,14 @@
         "unlock_tip": "Kill the pyroclastic jade construct"
     },
     {
+        "id": "Jade Mech",
+        "description": "Constructs created by Xunlai Jade in Cantha. In recent times, they have begun to malfunction.",
+        "category": "Other",
+        "image": "https://wiki.guildwars2.com/images/thumb/0/07/Jade_Construct.jpg/94px-Jade_Construct.jpg",
+        "unlock_achievement": 6132,
+        "unlock_tip": "Break the Protector"
+    },
+    {
         "id": "Minion",
         "description": "Undead servants found accompanying necromancers or roaming in places where the Underworld's influence is most present.",
         "category": "Other",
