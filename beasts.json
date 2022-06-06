@@ -504,6 +504,14 @@
         "unlock_tip": "Kill a kraken on a solid ocean"
     },
     {
+        "id": "Leviathan",
+        "description": "Large and ancient sea creatures said to date back to the previous rise of the Elder Dragons, if not further. They inhabit the depths of the Sea of Sorrows and the Unending Ocean, and once inhabited the Crystal Sea as well.",
+        "category": "Wildlife",
+        "image": "https://wiki.guildwars2.com/images/thumb/f/f1/Bestiary_leviathan.jpg/120px-Bestiary_leviathan.jpg",
+        "unlock_achievement": 81,
+        "unlock_tip": "Find a leviathan corpse in Claw Island"
+    },
+    {
         "id": "Minotaur",
         "description": "Minotaurs are prized by the norn for their warm, furry coats and horns. Most have never been domesticated due to being too stubborn to follow commands.",
         "category": "Wildlife",
@@ -774,14 +782,6 @@
         "image": "https://wiki.guildwars2.com/images/thumb/0/07/Jade_Construct.jpg/94px-Jade_Construct.jpg",
         "unlock_achievement": 3148,
         "unlock_tip": "Kill the pyroclastic jade construct"
-    },
-    {
-        "id": "Leviathan",
-        "description": "Large and ancient sea creatures said to date back to the previous rise of the Elder Dragons, if not further. They inhabit the depths of the Sea of Sorrows and the Unending Ocean, and once inhabited the Crystal Sea as well.",
-        "category": "Other",
-        "image": "https://wiki.guildwars2.com/images/thumb/7/7a/Leviathan_concept_art.png/120px-Leviathan_concept_art.png",
-        "unlock_achievement": 81,
-        "unlock_tip": "Find a leviathan corpse in Claw Island"
     },
     {
         "id": "Minion",

@@ -464,6 +464,13 @@
                 "unlock_txt": "Defeat a Solid Ocean kraken"
             },
             {
+                "id": "Leviathan",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/f\/f1\/Bestiary_leviathan.jpg\/120px-Bestiary_leviathan.jpg",
+                "description": "Large and ancient sea creatures said to date back to the previous rise of the Elder Dragons, if not further. They inhabit the depths of the Sea of Sorrows and the Unending Ocean, and once inhabited the Crystal Sea as well.",
+                "unlock": 81,
+                "unlock_txt": "Discover the leviathan carcass at Claw Island"
+            },
+            {
                 "id": "Minotaur",
                 "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/4\/45\/Minotaur_concept_art.jpg\/120px-Minotaur_concept_art.jpg",
                 "description": "Minotaurs are prized by the norn for their warm, furry coats and horns. Most have never been domesticated due to being too stubborn to follow commands.",
@@ -712,13 +719,6 @@
                 "description": "Ancient creations of the mursaat, they are made from chunks of jade that are held together by magic. Rarely seen in present day Tyria, they are formidable opponents as foot soldiers or guards of mursaat strongholds.",
                 "unlock": 3076,
                 "unlock_txt": "Defeat a jade construct"
-            },
-            {
-                "id": "Leviathan",
-                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/7\/7a\/Leviathan_concept_art.png\/120px-Leviathan_concept_art.png",
-                "description": "Large and ancient sea creatures said to date back to the previous rise of the Elder Dragons, if not further. They inhabit the depths of the Sea of Sorrows and the Unending Ocean, and once inhabited the Crystal Sea as well.",
-                "unlock": 81,
-                "unlock_txt": "Discover the leviathan carcass at Claw Island"
             },
             {
                 "id": "Minion",
