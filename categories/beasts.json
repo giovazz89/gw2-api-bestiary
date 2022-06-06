@@ -786,7 +786,7 @@
             {
                 "id": "Warden",
                 "description": "Ancient and mysterious plant-like protectors of the Echovald Forest.",
-                "image": "https:\/\/wiki.guildwars2.com\/images\/thumb\/d\/d5\/Warden_concept_art.jpg\/82px-Warden_concept_art.jpg",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/d\/d5\/Warden_concept_art.jpg\/82px-Warden_concept_art.jpg",
                 "unlock_achievement": 6472,
                 "unlock_tip": "Get involved with Echovald Wardens"
             },
