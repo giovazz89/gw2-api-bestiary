@@ -176,6 +176,13 @@
                 "unlock_txt": "Kill a Mursaat, fast!"
             },
             {
+                "id": "Naga",
+                "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/c\/c5\/EoD_screenshot_03.jpg\/200px-EoD_screenshot_03.jpg",
+                "description": "A race of vicious serpentine creatures inhabiting both the Jade Sea and Shing Jea Island.",
+                "unlock": 6460,
+                "unlock_txt": "Send them back to the Deep"
+            },
+            {
                 "id": "Ogre",
                 "icon": "https:\/\/wiki.guildwars2.com\/images\/thumb\/1\/13\/Ogre_concept_art_3.jpg\/89px-Ogre_concept_art_3.jpg",
                 "description": "A race of beastmasters and herders, they are rarely seen without a pet. They come from the Blazeridge Mountains, looking to expand their territory into Ascalon.",
